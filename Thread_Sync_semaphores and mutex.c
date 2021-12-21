@@ -1,4 +1,7 @@
-#include <stdlib.h> #include <stdio.h> #include <pthread.h> #include <semaphore.h>
+#include <stdlib.h> 
+#include <stdio.h> 
+#include <pthread.h> 
+#include <semaphore.h>
 //#include "buffer.h" # define BUFFER_SIZE 5
 #define RAND_DIVISOR 100000000
 #define TRUE 1
